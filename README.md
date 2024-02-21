@@ -19,6 +19,7 @@ Essa operação deve listar todos os depósitos e saques realizados na conta. No
 Os valores devem ser exibidos utilizando o formato R$ xxx.xx, 
 
 exemplo:
+
 1500.45 = R$ 1500.45
 
 
